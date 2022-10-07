@@ -106,14 +106,14 @@ global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://ibb.co/17RY7x9'
+global.logo = 'https://i.ibb.co/6Rkc1Tv/1664889062288.jpg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/0c6ff83f2adbcf4693314.gif' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/26b515d170f1e599f78a7.jpg'
-global.thumbbc = 'https://telegra.ph/file/05f874dc87f7e27fa8127.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/c1664801103f2df26b78f.gif' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/c1664801103f2df26b78f.jpg'
+global.thumbbc = 'https://telegra.ph/file/c1664801103f2df26b78f.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg',
 'https://i.pinimg.com/originals/85/4d/bb/854dbbd30304cd69f305352f0183fad0.jpg',
@@ -337,7 +337,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c1664801103f2df26b78f.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
