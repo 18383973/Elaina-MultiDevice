@@ -4,7 +4,7 @@ let handler = async (m, { conn, text }) => {
 		let _uptime = process.uptime() * 1000
 		let uptime = clockString(_uptime);
                 let namebot = global.namebot
-		let bio = `Im ${namebot} 🤖 || ⏰ Aktif Selama ${uptime} || 🌎 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} || 🎨 Create By ${nameown}`)
+		let bio = `Im ${VinnXD BOT} 🤖 || ⏰ Aktif Selama ${1 minutes, 20 second|| 🌎 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} || 🎨 Create By ${Vincentt ?}`)
 		await conn.updateProfileStatus(bio).catch(_ => _)
 		conn.reply(m.chat, 'Sukses Mengganti Bio Bot', m)
 		setting.status = new Date() * 1
